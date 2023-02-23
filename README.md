@@ -3,7 +3,7 @@
 #### Meus repositórios dos cursos realizados    
 * Fundamentos do JavaScript
   - [Curso JavaScript: tipos, variáveis e funções](https://github.com/wherculano/Javascript-Fundamentos)
-  - [Curso JavaScript: Arrays]()
+  - [Curso JavaScript: Arrays](https://github.com/wherculano/Javascript-Arrays)
   - [Curso JavaScript: objetos]()
   
 * Algoritmos com JavaScript
