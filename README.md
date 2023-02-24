@@ -4,7 +4,7 @@
 * Fundamentos do JavaScript
   - [Curso JavaScript: tipos, variáveis e funções](https://github.com/wherculano/Javascript-Fundamentos)
   - [Curso JavaScript: Arrays](https://github.com/wherculano/Javascript-Arrays)
-  - [Curso JavaScript: objetos]()
+  - [Curso JavaScript: objetos](https://github.com/wherculano/Javascript-Objetos)
   
 * Algoritmos com JavaScript
   - [Curso JavaScript I: algoritmos de ordenação]()
