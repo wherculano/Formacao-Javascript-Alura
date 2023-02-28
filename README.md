@@ -8,7 +8,7 @@
   
 * Algoritmos com JavaScript
   - [Curso JavaScript I: algoritmos de ordenação](https://github.com/wherculano/Javascript-I-algoritmos-de-ordenacao)
-  - [Curso Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca]()
+  - [Curso Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca](https://github.com/wherculano/JavaScript-II-aprofundando-em-algoritmos-de-ordenacao-e-busca)
  
  * Avançando com ferramentas e paradigmas
    - [Curso Node.js: criando sua primeira biblioteca]()
