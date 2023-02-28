@@ -7,7 +7,7 @@
   - [Curso JavaScript: objetos](https://github.com/wherculano/Javascript-Objetos)
   
 * Algoritmos com JavaScript
-  - [Curso JavaScript I: algoritmos de ordenação]()
+  - [Curso JavaScript I: algoritmos de ordenação](https://github.com/wherculano/Javascript-I-algoritmos-de-ordenacao)
   - [Curso Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca]()
  
  * Avançando com ferramentas e paradigmas
