@@ -12,4 +12,4 @@
  
  * Avançando com ferramentas e paradigmas
    - [Curso Node.js: criando sua primeira biblioteca](https://github.com/wherculano/NodeJS_Criando_sua_primeira_biblioteca)
-   - [Curso JavaScript: programação orientada a objetos]()
+   - [Curso JavaScript: programação orientada a objetos](https://github.com/wherculano/Javascript-Programacao-Orientada-a-Objetos)
